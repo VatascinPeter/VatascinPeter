@@ -5,7 +5,9 @@ I have graduated from bachelor's programme Open Informatics - Computer Games and
 
 ## Languages
 Czech - Native
+
 Slovak - Native
+
 English - C1+
 
 ## Computer Skills
