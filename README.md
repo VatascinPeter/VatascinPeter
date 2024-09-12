@@ -1,4 +1,15 @@
-## Hi there 👋
+## Peter Vataščin
+I am a first year student of the master's programme Open Informatics - Artificial Intelligence at CTU FEE in Prague.
+
+I have graduated from bachelor's programme Open Informatics - Computer Games and Graphics at CTU FEE in Prague.
+
+## Languages
+Czech - Native
+Slovak - Native
+English - C1+
+
+## Computer Skills
+C, C++, C#, Java, Python, Haskell, Racket, Blender, Unity, Matlab, SQL
 
 <!--
 **VatascinPeter/VatascinPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
