@@ -10,6 +10,8 @@ Slovak - Native
 
 English - C1+
 
+German - A2
+
 ## Computer Skills
 C, C++, C#, Java, Python, Haskell, Racket, Blender, Unity, Matlab, SQL
 
