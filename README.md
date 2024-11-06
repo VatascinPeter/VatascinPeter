@@ -13,7 +13,7 @@ English - C1+
 German - A2
 
 ## Computer Skills
-C, C++, C#, Java, Python, Haskell, Racket, Blender, Unity, Matlab, SQL
+C, C++, C#, Java, Python, Haskell, Racket, Blender, Unity, Matlab, SQL, Julia
 
 <!--
 **VatascinPeter/VatascinPeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
